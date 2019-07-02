@@ -1,7 +1,7 @@
 # Hangman
 
 <p align="center">
-<img src=README_Image/hangman_logo height="120">
+<img src="README_Image/hangman_logo.png" height="120">
 </p>
 
 This program is an implemented game of hangman programmed in Python. It contains a test suite as well as a user interface. I made this project for my Principles of Computing Sciene I class at Ithaca College. 
